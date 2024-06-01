@@ -17,7 +17,7 @@ I use NixOS and i quite like it. I am a statistics student and I normally have c
 - this is just regular bash with now R, RStudio, Python and some of their libraries available to you
 - just run ```exit``` to exit
 - now you are at your regular shell and tools are gone!
-- if you run ``nix develop $HOME/devshells/stats``` again, the shell will take only a second or two to come up
+- if you run ```nix develop $HOME/devshells/stats``` again, the shell will take only a second or two to come up
 
 This project will be enhanced over time, new shells will be added, flakes will be optimized and purer (in terms of doing things the Nix way, this whole project is me trying to do things more Nix way). Clone and play with it, let me know what happens, what works or not.
 
